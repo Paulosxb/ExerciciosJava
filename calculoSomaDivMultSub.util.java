@@ -23,4 +23,5 @@ public class Calculadora {
         System.out.println("Divisão: " + divisao);
 
         scanner.close();
+        /*Apenas um teste */
 }
